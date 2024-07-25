@@ -1,0 +1,140 @@
+# Lean Six Sigma Yellow Belt Training - DMAIC
+
+## Training Overview
+The Lean Six Sigma Yellow Belt training follows the DMAIC methodology, which stands for Define, Measure, Analyze, Improve, and Control.
+
+## DMAIC Phases
+
+### Define Phase - Clarify the Problem and Process
+
+**Goal:** Create a Project Charter to clarify and focus the project.
+
+#### Elements of a Project Charter:
+1. **Project Title**
+   - **Process Name**
+   - **Measure Outcome**
+   - **Direction of Improvement**
+2. **Problem Statement**
+3. **Business Case**
+4. **Goal Statement**
+5. **Timeline**
+6. **Scope**
+7. **Team Members**
+
+#### Project Goal Statement
+A Project Goal Statement is a precise, action-focused sentence stating what you plan to improve by how much and when.
+
+#### Steps to Create a Project Title:
+1. **Direction of Improvement**
+2. **Process Name**
+3. **Measure Outcome**
+
+**Example:** Increase Claims Process Time
+
+### Measure Phase - Quantify the Problem and Map the Process
+
+**Goal:** Create a process map to visualize the process.
+
+#### Process Map
+A process map is a picture of the sequence of steps in a process.
+
+1. Identify the process.
+2. Gather input from people who work within the process.
+3. Identify starting and ending points.
+4. Map the process using symbols:
+   - Terminator symbol for the first step
+   - Rectangles for activities
+   - Diamond symbols for decision points
+5. Connect symbols with arrows to illustrate process flow.
+
+#### Swimlane Map
+A Swimlane Map separates processes into lanes representing different functions, departments, or individuals.
+
+**Steps to Create a Swimlane Map:**
+1. Understand the As-Is process.
+2. Identify the different process groups.
+3. Map the process within the lanes.
+
+### Analyze Phase - Determine the Root Causes
+
+**Goal:** Identify root causes of problems using tools like the 5 Whys and Cause & Effect diagrams.
+
+#### 5 Whys Technique
+A method to determine the root cause of a problem by asking "why" multiple times until the underlying issue is identified.
+
+### Improve Phase - Confirm the Solutions Work
+
+**Goal:** Implement solutions to eliminate or minimize issues causing problems.
+
+#### Types of Improvements
+1. **5S Methodology:**
+   - **Sort:** Keep frequently used items, store less used items, remove unused items.
+   - **Set in Order:** Arrange items for easy access.
+   - **Shine:** Clean the work area.
+   - **Standardize:** Develop consistent procedures.
+   - **Sustain:** Periodic audits to maintain standards.
+2. **Quick Win Solutions:**
+   - Implement obvious, low-risk solutions quickly.
+
+### Control Phase - Ensure the Gains are Sustained
+
+**Goal:** Maintain improvements and prevent regression to old processes.
+
+#### Control Methods
+1. **Standard Operating Procedures (SOPs):** Document detailed steps for consistent process execution.
+2. **Visual Management:** Use visual cues to manage processes and ensure efficiency.
+
+#### Examples of Visual Management:
+- Display boards
+- Maintenance schedules
+- Status lights and signals
+
+#### Project Handoff
+1. Key actions to close the project
+2. Summarize project results and controls
+3. Document approval to close the project
+
+## Tools and Concepts
+
+### The 8 Wastes (DOWNTIME)
+1. **Defects**
+2. **Overproduction**
+3. **Waiting**
+4. **Non-Utilized Talent**
+5. **Transportation**
+6. **Inventory**
+7. **Motion**
+8. **Extra Processing**
+
+### How to Identify Waste
+1. **Process Maps**
+2. **Gemba/Process Walks**
+3. **Value Stream Mapping (VSM)**
+4. **Value-Add Analysis**
+5. **Engaging Employees**
+
+### Process Walk Steps
+1. **Pick Your Process**
+2. **Create Your Process Map**
+3. **Walk Your Process**
+4. **Summarize Your Observations**
+
+## Example Visuals
+
+### Example Process Map
+![Process Map Example](link_to_image)
+
+### Example Swimlane Map
+![Swimlane Map Example](link_to_image)
+
+### Example Project Summary
+![Project Summary Example](link_to_image)
+
+## Additional Resources
+- [Lean Six Sigma Define Phase](https://goleansixsigma.com/define-phase-1-of-5-of-lean-six-sigma/)
+- [DMAIC Phases](https://goleansixsigma.com/dmaic-five-basic-phases-of-lean-six-sigma/)
+- [Lean Six Sigma Overview](https://goleansixsigma.com/what-is-lean-six-sigma/)
+
+## Certification
+- [My Yellow Belt Certification](https://the.glss.app/public/certificates/76751)
+
